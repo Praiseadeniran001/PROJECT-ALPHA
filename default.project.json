@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rojo-rbx/rojo/master/rojo project schema.json",
+  "name": "Project Alpha",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer"
+    }
+  }
+}
