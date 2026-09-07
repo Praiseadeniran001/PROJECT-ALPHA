@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/rojo-project.json",
+  "$schema": "https://raw.githubusercontent.com/rojo-rbx/rojo/master/rojo.project.json",
   "name": "Project Alpha",
   "tree": {
     "$className": "DataModel",
