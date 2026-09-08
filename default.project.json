@@ -5,12 +5,20 @@
 
     "ServerScriptService": {
       "$className": "ServerScriptService",
-  
+
       "GameFiles": {
         "$className": "Folder",
         "$path": "src/ServerScriptService"
       }
-    }
+    },
 
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+
+      "Modules": {
+        "$className": "Folder",
+        "$path": "src/ReplicatedStorage/Modules"
+      }
+    }
   }
 }
